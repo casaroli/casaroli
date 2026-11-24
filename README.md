@@ -11,6 +11,7 @@ I’m also a sound synthesis and modular synthesizer enthusiast.
 ### Pre-AI
 
 - [Momote](https://inatel.br/noticias/uma-solucao-para-conectar-todas-as-coisas) — A low-cost, open-source IoT hardware module I developed during my master’s research at Inatel.
+- [NovaGenesis](https://github.com/antonioalberti/novagenesis) — An experimental Internet architecture and Linux networking stack built around named services and data.
 - [Maritime Hacking Village Badge 2025](https://github.com/Maritime-Hacking-Village/Badge-2025) — An open hardware badge built around the Raspberry Pi Pico 2, with Rust firmware.
 - [Edge Virtualization Platform](https://github.com/SonySemiconductorSolutions/edge-virtualization-platform) — Sony Semiconductor Solutions’ open-source edge virtualization platform.
 - [Linux on Raspberry Pi Pico 2](https://github.com/casaroli/pi-pico2-linux-xip) — A fork that runs RISC-V Linux on the Pico 2 using execute-in-place (XIP).
