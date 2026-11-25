@@ -1,5 +1,7 @@
 # Marco Casaroli
 
+[LinkedIn](https://www.linkedin.com/in/casaroli)
+
 I’m an embedded systems engineer and real-time operating systems (RTOS) enthusiast with expertise in networking, cybersecurity, RTOS development, and building embedded Linux systems with the Yocto Project.
 
 I contribute to [Zephyr](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Acasaroli) and am an [Apache NuttX committer](https://nuttx.apache.org/community-members/). My upstream work includes POSIX I/O in Zephyr and process and thread lifecycle handling in NuttX. [NuttX contributions](https://github.com/apache/nuttx/pulls?q=is%3Apr+author%3Acasaroli)
@@ -32,7 +34,7 @@ I’m also a sound synthesis and modular synthesizer enthusiast.
 - [Maritime Hacking Village SAO 2026 Radar](https://github.com/Maritime-Hacking-Village/SAO-2026-Radar)
 - [Felinaut](https://github.com/felinaut) — A macOS web browser written in Rust.
 - [rv32i-babbage](https://github.com/casaroli/rv32i-babbage) — An experiment in running the RV32I instruction set on Babbage’s Analytical Engine.
-- [printf-report](https://github.com/casaroli/printf-report)
+- [printf-report](https://github.com/casaroli/printf-report) — a hacker's delight
 
 ## Other work
 
