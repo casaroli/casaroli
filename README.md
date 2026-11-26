@@ -1,7 +1,5 @@
 # Marco Casaroli
 
-[LinkedIn](https://www.linkedin.com/in/casaroli)
-
 I’m an embedded systems engineer and real-time operating systems (RTOS) enthusiast with expertise in networking, cybersecurity, RTOS development, and building embedded Linux systems with the Yocto Project.
 
 I contribute to [Zephyr](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Acasaroli) and am an [Apache NuttX committer](https://nuttx.apache.org/community-members/). My upstream work includes POSIX I/O in Zephyr and process and thread lifecycle handling in NuttX. [NuttX contributions](https://github.com/apache/nuttx/pulls?q=is%3Apr+author%3Acasaroli)
